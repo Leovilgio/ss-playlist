@@ -1,21 +1,28 @@
-# ss-playlist
+# LéoVision
 
-Playlist IPTV organizada por grupos:
+Addon IPTV para **Stremio** — canais ao vivo organizados.
 
-1. **Variedades**
-2. **Gaming**
-3. **Notícias**
-4. **Novelas**
-5. **Músicas**
-6. **Desporto**
-7. **Animação**
-8. **Filmes & Séries**
-9. **Animes**
-
-## Link direto (raw)
+## Manifest (instalar no Stremio)
 
 ```
-https://raw.githubusercontent.com/Leovilgio/ss-playlist/main/ss_playlist.m3u
+https://raw.githubusercontent.com/Leovilgio/ss-playlist/main/manifest.json
 ```
 
-Cole este link no teu player IPTV (TiviMate, IPTV Smarters, VLC, etc.).
+## Playlist M3U
+
+```
+https://raw.githubusercontent.com/Leovilgio/ss-playlist/main/playlist.m3u
+```
+
+### Categorias
+- Variedades
+- Gaming
+- Notícias
+- Novelas
+- Músicas
+- Desporto
+- Animação
+- Filmes & Séries
+- Animes
+
+**Por Leovilgio**
