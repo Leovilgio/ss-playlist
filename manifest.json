@@ -1,16 +1,16 @@
 {
-  "id": "com.leostream.iptv",
+  "id": "com.leovision.iptv",
   "version": "1.0.0",
-  "name": "LeoStream",
-  "description": "Addon de canais IPTV ao vivo. Categorias: Variedades, Gaming, Notícias, Novelas, Músicas, Desporto, Animação, Filmes & Séries e Animes. Feito por Leovilgio.",
+  "name": "LéoVision",
+  "description": "Canais IPTV ao vivo organizados. Categorias: Variedades, Gaming, Notícias, Novelas, Músicas, Desporto, Animação, Filmes & Séries e Animes. Por Leovilgio.",
   "logo": "https://raw.githubusercontent.com/Leovilgio/ss-playlist/main/logo.png",
   "background": "https://raw.githubusercontent.com/Leovilgio/ss-playlist/main/background.jpg",
   "contactEmail": "leovilgiosergiom@gmail.com",
   "catalogs": [
     {
       "type": "tv",
-      "id": "leostream",
-      "name": "LeoStream",
+      "id": "leovision",
+      "name": "LéoVision",
       "extra": [
         { "name": "genre" },
         { "name": "search" }
@@ -19,7 +19,7 @@
   ],
   "resources": ["catalog", "meta", "stream"],
   "types": ["tv"],
-  "idPrefixes": ["leostream"],
+  "idPrefixes": ["leovision"],
   "behaviorHints": {
     "adult": false,
     "p2p": false
